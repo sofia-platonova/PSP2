@@ -3,7 +3,7 @@ import myClass.Tribe;
 public class Runner {
     public static void main(String[] args) {
         Tribe []tribe = new Tribe[4];
-        tribe[0] = new Tribe("Папуасы", 450, true);
+        tribe[0] = new Tribe("Па пу асы", 450, true);
         tribe[1]=new Tribe("Апачи",300);
         tribe[2]=new Tribe();
         tribe[3]=new Tribe(tribe[0]);
